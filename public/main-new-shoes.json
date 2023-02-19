@@ -1,0 +1,26 @@
+[
+    {
+        "id": "card1",
+        "title": "Shoe One",
+        "info": "Info 1",
+        "img": "shoe01.jpg"
+    },
+    {
+        "id": "card2",
+        "title": "Shoe Two",
+        "info": "Info 2",
+        "img": "shoe02.jpg"
+    },
+    {
+        "id": "card3",
+        "title": "Shoe Three",
+        "info": "Info 3",
+        "img": "shoe03.jpg"
+    },
+    {
+        "id": "card10",
+        "title": "Shoe Four",
+        "info": "Info",
+        "img": "shoe04.jpg"
+    }
+]

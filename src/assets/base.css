@@ -1,0 +1,28 @@
+html {
+    min-height: 100vh;
+}
+
+body {
+    box-sizing: border-box;
+    overflow-x: hidden;
+    background-color: rgb(235, 235, 235);
+    margin: 0;
+    padding: 0;
+}
+
+#app {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 100vh;
+}
+
+.button-wrapper {
+    display: flex;
+    justify-content: center;
+    margin: 2rem;
+}
+
+.wrapper-footer {
+    margin-top: 10vh;
+}
